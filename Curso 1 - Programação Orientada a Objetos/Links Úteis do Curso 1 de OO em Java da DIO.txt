@@ -1,0 +1,6 @@
+	     Links Úteis sobre o Curso 1 de OO em Java - Programação Orientada a Objetos 
+
+		*Slide:
+		https://docs.google.com/presentation/d/1k5syUGWVoY8yJ2cDLHwhrR0kDBUUG5Ay/edit#slide=id.p2
+		*Outros links:
+		https://www.casadocodigo.com.br/products/livro-oo-conceitos
