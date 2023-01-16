@@ -1,0 +1,14 @@
+				Curso 6 - Gerenciamento de Dependências e Build em Java com Maven
+
+
+		*Slide: 
+		https://docs.google.com/presentation/d/1wudqWaBDK40QnBAYjuh4Q65dcC2wqLW_/edit#slide=id.p2
+		
+		* Maven:
+		https://maven.apache.org/download.cgi --> Binary zip archive
+		
+		*Comandos Básicos:
+		- Criar um projeto com Maven: mvn archetype:generate -DgroupId=one.digitalinnovation -DartifactId=maven-javadoc-test(nome do projeto) -Darchetype=maven-quick-start -Dinteractive=false
+		- Compilar: mvn compile
+		- Testar : mvn test
+		- Plugins: mvn javadoc:javadoc  --> Gera um site com as informações das classes Java
