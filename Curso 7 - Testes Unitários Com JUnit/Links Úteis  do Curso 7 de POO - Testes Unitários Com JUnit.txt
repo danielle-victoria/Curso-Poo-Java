@@ -1,0 +1,6 @@
+			Curso 7 - Testes Unitários Com JUnit
+
+		*Slide:
+		https://docs.google.com/presentation/d/1XJfYH_8L2d79y1PbSust98XP19BJf8r3/edit#slide=id.p16
+		*GitHub:
+		https://github.com/willyancaetano/junit5-exemplos/tree/master/src
