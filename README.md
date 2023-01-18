@@ -7,3 +7,4 @@
 - Curso 5 - Tratamento de Exceções em Java
 - Curso 6 - Gerenciamento de Dependências e Build em Java com Maven
 - Curso 7 - Testes Unitários Com JUnit
+- Curso 8 - Desenvolvendo Testes Utilizando Mockito
