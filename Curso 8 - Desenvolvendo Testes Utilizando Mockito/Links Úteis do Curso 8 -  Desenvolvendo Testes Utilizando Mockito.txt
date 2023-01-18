@@ -1,0 +1,12 @@
+			Curso 8 - Desenvolvendo Testes Utilizando Mockito
+
+		
+		*Slide:
+		https://docs.google.com/presentation/d/1CMt_YrDpvyPDVLzcSjA8F4UXKa3F9Dlo/edit#slide=id.p2
+		*GitHub:
+		https://github.com/willyancaetano/mockito-exemplos
+
+		*Maven Repository: -->Dependencies -->Adcionar -->pom.xml
+		https://mvnrepository.com/artifact/org.mockito/mockito-junit-jupiter
+		https://mvnrepository.com/artifact/org.mockito/mockito-core
+		https://mvnrepository.com/artifact/org.mockito/mockito-inline/4.4.0
